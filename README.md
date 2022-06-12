@@ -1,4 +1,4 @@
-# pokergamejava
+# Poker Game
 Java Programming Project creating a poker game.
 
 
